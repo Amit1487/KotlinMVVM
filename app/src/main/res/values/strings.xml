@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM Programming Task</string>
+    <string name="active">Active</string>
+    <string name="extinct">Extinct</string>
+</resources>
